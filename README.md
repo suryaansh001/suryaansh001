@@ -44,25 +44,30 @@ I build practical software at the intersection of **AI, machine learning, resear
 |---|---:|---|
 | Public repositories | **98** | Consistent project-building across several years |
 | Detected primary languages | **10** | Strong breadth across product, systems, data, and scripting work |
-| Python share | **47.6%** | ML, data, research, APIs, automation, and AI backends |
-| TypeScript share | **32.9%** | Modern frontend, full-stack products, and typed application code |
-| JavaScript share | **7.3%** | Web backends, prototypes, and application experiments |
+| <img src="https://skillicons.dev/icons?i=python" width="20" alt="Python" /> Python share | **47.6%** | ML, data, research, APIs, automation, and AI backends |
+| <img src="https://skillicons.dev/icons?i=ts" width="20" alt="TypeScript" /> TypeScript share | **32.9%** | Modern frontend, full-stack products, and typed application code |
+| <img src="https://skillicons.dev/icons?i=js" width="20" alt="JavaScript" /> JavaScript share | **7.3%** | Web backends, prototypes, and application experiments |
 | Other languages | **12.2%** | HTML, Shell, Rust, C, Dart, PHP, and Jupyter Notebook |
 
 ### Primary-language mix
 
-```text
-Python          47.6%  ████████████████████████
-TypeScript      32.9%  ████████████████
-JavaScript       7.3%  ████
-HTML             3.7%  ██
-Shell            2.4%  █
-Rust             1.2%  ▌
-Jupyter Notebook 1.2%  ▌
-PHP              1.2%  ▌
-Dart             1.2%  ▌
-C                1.2%  ▌
-```
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Share</th>
+    <th>Distribution</th>
+  </tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=python" width="22" alt="Python" /> Python</td><td>47.6%</td><td>████████████████████████</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=ts" width="22" alt="TypeScript" /> TypeScript</td><td>32.9%</td><td>████████████████</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=js" width="22" alt="JavaScript" /> JavaScript</td><td>7.3%</td><td>████</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=html" width="22" alt="HTML" /> HTML</td><td>3.7%</td><td>██</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=bash" width="22" alt="Shell" /> Shell</td><td>2.4%</td><td>█</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=rust" width="22" alt="Rust" /> Rust</td><td>1.2%</td><td>▌</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=jupyter" width="22" alt="Jupyter Notebook" /> Jupyter Notebook</td><td>1.2%</td><td>▌</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=php" width="22" alt="PHP" /> PHP</td><td>1.2%</td><td>▌</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=dart" width="22" alt="Dart" /> Dart</td><td>1.2%</td><td>▌</td></tr>
+  <tr><td><img src="https://skillicons.dev/icons?i=c" width="22" alt="C" /> C</td><td>1.2%</td><td>▌</td></tr>
+</table>
 
 ## What I build
 
@@ -111,7 +116,7 @@ These are shown as **open-source projects in my public development history**. Fo
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,django, rust,c,flutter,git,github,docker,postgres,mongodb,linux&perline=9" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,django,rust,c,flutter,git,github,docker,postgres,mongodb,linux&perline=9" alt="Technology stack" />
 </p>
 
 ## Connect
